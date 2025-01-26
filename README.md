@@ -2,7 +2,7 @@
 # flash btc usdt algorithm breaker 
 # flash_bitcoin 
 # owner: @user_N666 on telegram
-# telegram channel: https://t.me/flash_btc_usdt_2023
+# telegram channel: https://t.me/flashbtc_usdt_crypto_transaction
 THE BTC USDT ALGORITHM BREAKER software is a software that use  the crypto nodes, theirs API and almost all transactions history in the blockchain in order to break the algorithm.
 --- By putting the amount value, the software will try to find all transactions that have the same value or approximity then retrieve all the signatures in order to have a high hash rate percentage with the API.
 --- Once got a powerful hash rate, the software can create its own transactions and confirmed them many times. 
